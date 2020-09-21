@@ -1,0 +1,8 @@
+
+7
+java:S1643"Use a StringBuilder instead.(Õá°Òýÿÿÿÿ
+2
+java:S1643"Use a StringBuilder instead.(ëƒ´•
+S	java:S106"9Replace this use of System.out or System.err by a logger.(•«·Þþÿÿÿÿ
+?
+java:S2140")Use "java.util.Random.nextInt()" instead.(ëƒ´•

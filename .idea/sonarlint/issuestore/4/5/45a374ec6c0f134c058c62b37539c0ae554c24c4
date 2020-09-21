@@ -1,0 +1,21 @@
+
+r
+java:S1149_"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(ÑÖÙƒıÿÿÿÿ8ùü—Ç.
+]	java:S125"<This block of commented-out lines of code should be removed.(…üÿÿÿÿÿ8öş‚˜Ç.
+{
+java:S3012c"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(™ˆ°Üıÿÿÿÿ8ùü—Ç.
+X	java:S125"<This block of commented-out lines of code should be removed.(íı¦’8öş‚˜Ç.
+X	java:S125 "<This block of commented-out lines of code should be removed.(Ñô£È8Äğœ—Ç.
+X	java:S125B"<This block of commented-out lines of code should be removed.(µÍ€8Äğœ—Ç.
+]	java:S125""<This block of commented-out lines of code should be removed.(·´¬ªşÿÿÿÿ8Äğœ—Ç.
+]	java:S125"<This block of commented-out lines of code should be removed.(óÄ®½üÿÿÿÿ8Äğœ—Ç.
+]	java:S125"<This block of commented-out lines of code should be removed.(õà“âüÿÿÿÿ8×‘ƒ˜Ç.
+X	java:S125"<This block of commented-out lines of code should be removed.(ù¥¯8öş‚˜Ç.
+]	java:S125"<This block of commented-out lines of code should be removed.(µùÒÛùÿÿÿÿ8Äğœ—Ç.
+e	java:S119L"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(¤æ¿Ÿ8Á§‘˜Ç.
+]	java:S125"<This block of commented-out lines of code should be removed.(õà“âüÿÿÿÿ8öş‚˜Ç.
+U	java:S106@"9Replace this use of System.out or System.err by a logger.(¯ô¢ô8ÆÓø˜Ç.
+Z	java:S106?"9Replace this use of System.out or System.err by a logger.(æ–İ€ÿÿÿÿÿ8æƒã˜Ç.
+X	java:S125$"<This block of commented-out lines of code should be removed.(Ê©ı¸8Äğœ—Ç.
+P
+java:S1128".Remove this unused import 'org.omg.CORBA.Any'.(ÑÔĞåşÿÿÿÿ8—ªÓ˜Ç.

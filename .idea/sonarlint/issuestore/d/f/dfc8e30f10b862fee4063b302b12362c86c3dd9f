@@ -1,0 +1,12 @@
+
+X	java:S125>"<This block of commented-out lines of code should be removed.(ÁøÛË8òè´¬¼.
+L
+java:S1066)"/Merge this if statement with the enclosing one.(é—¦8ìß­¼.
+F
+java:S54112"*Use the primitive boolean expression here.(Þðó(8ìß­¼.
+G
+java:S5411L"*Use the primitive boolean expression here.(ÓÏ€8ìß­¼.
+t
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(ûªºùÿÿÿÿ8ìß­¼.
+
+java:S22346"_Parameters to setStartPoint have the same names but not the same order as the method arguments.(‹Ìîûÿÿÿÿ8ìß­¼.
